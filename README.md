@@ -1,5 +1,5 @@
 # MathsCompetencySurvey_OOPJan23
-Object Oriented Programming Homework
+Object-Oriented Programming Homework
 
 The scenario for this project:
 
