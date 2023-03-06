@@ -8,7 +8,7 @@ The scenario for this project:
 
 The MoE would like to be able to do the following calculation over the years :
 
--Get the score for a particular school in a particular year
--List out the average score for each school
--List out the standard deviation for each school
--Sort the list
+1. Get the score for a particular school in a particular year
+2. List out the average score for each school
+3. List out the standard deviation for each school
+4. Sort the list
