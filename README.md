@@ -12,3 +12,10 @@ The MoE would like to be able to do the following calculation over the years :
 2. List out the average score for each school
 3. List out the standard deviation for each school
 4. Sort the list
+
+Important: THIS CODES IS ALL IN ONE PACKAGES
+
+/*
+Made by: MUHAMMAD HARIF BIN MOHD AFENDI
+Student ID: 22007165
+*/
