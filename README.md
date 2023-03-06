@@ -1,5 +1,5 @@
 # MathsCompetencySurvey_OOPJan23
-Maths Competency Survey
+Object Oriented Programming Homework
 
 The scenario for this project:
 
